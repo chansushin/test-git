@@ -6,3 +6,5 @@
 print("This is the test.py file to test the git commands")
 
 print("한글 테스트 메시지입니다.")
+
+print("This is the second line of the test.py file")
