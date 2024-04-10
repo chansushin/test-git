@@ -4,3 +4,5 @@
 # 3. push the file to git - cmd: git push origin main
 
 print("This is the test.py file to test the git commands")
+
+print("한글 테스트 메시지입니다.")
